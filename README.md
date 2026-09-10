@@ -15,6 +15,6 @@ The goal of the OneScript project is to provide the best available language that
 1. Interview definition language capability with the fields language declaration and the Interview Module standard library.
 1. Provides Snapshots, the ability to move back and forth points in a program, saving and restoring points in the state of objects in the running application. This unique feature offers support for moving back and forth through questions in a survey experience.
 
-For more information on the OneScript language refer to the [https://onescript.org](https://www.onescript.org) web site.
+For more information on the OneScript language refer to the [https://onescript.org](https://onescript.org) web site.
 
 
